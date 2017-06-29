@@ -9,7 +9,6 @@
             "email": "923020040@qq.com"
         }
     ],
-    "require": {},
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.0.0"
